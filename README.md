@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 👋 About Me
+
+I'm a software engineer who loves building things — not just at work, but everywhere.  
+I enjoy automating tasks, creating games, practicing algorithms, and basically **turning ideas into real projects**.  
+Coding is not only my job; it's something I genuinely enjoy doing.
+
+
 ### 🛠️ Skills
 - Python | JavaScript | Node.js | Bash
 - Django | React
