@@ -25,32 +25,32 @@ Here are some ideas to get you started:
 ### 🌟 **ci_cd_flask_app**
 📌 Project to get random messages as response.  
 📌 Created for CI/CD learning and automation.
-🔗 **Link:** `https://github.com/urosobucina996/ci_cd_flask_app`
+🔗 [Open Project](https://github.com/USERNAME/ci_cd_flask_app)
 <br>
 ### 🌟 **python_games**
 📌 Make 2D game played in CMD, mimic old snake game.
 📌 Just like on Tetris.
-🔗 **Link:** `https://github.com/urosobucina996/python_games`
+🔗 [Open Project](https://github.com/urosobucina996/python_games)
 <br>
 ### 🌟 **space_impact**
 📌 Own verison of Space Impact game from old Nokia phones.
 📌 Made with React + Phaser
-🔗 **Link:** `[https://github.com/urosobucina996/python_games](https://github.com/urosobucina996/space_impact)`
+🔗 [Open Project](https://github.com/urosobucina996/space_impact)
 <br>
 ### 🌟 **bash-scripts**
 📌 Bash scripts to automate upload files.
-🔗 **Link:** `[[https://github.com/urosobucina996/python_games](https://github.com/urosobucina996/space_impact)](https://github.com/urosobucina996/bash-scripts/tree/main/upload-script)`
+🔗 [Open Project](https://github.com/urosobucina996/bash-scripts/tree/main/upload-script)
 <br>
 ### 🌟 **pandemicStatistic**
 📌 Web app that scrapes and represent statistic data about Covid(made in 2022).
-🔗 **Link:** `[[[https://github.com/urosobucina996/python_games](https://github.com/urosobucina996/space_impact)](https://github.com/urosobucina996/bash-scripts/tree/main/upload-script)](https://github.com/urosobucina996/pandemicStatistic)`
+🔗 [Open Project](https://github.com/urosobucina996/pandemicStatistic)
 🔗 **Site:**  `https://pandemic-report-urosobucina996.vercel.app/report`
 <br>
 ### 🌟 **webScraper**
 📌 Web scraper for electric guitars
-🔗 **Link:** `[[[https://github.com/urosobucina996/python_games](https://github.com/urosobucina996/space_impact)](https://github.com/urosobucina996/bash-scripts/tree/main/upload-script)](https://github.com/urosobucina996/webScraper)`
+🔗 [Open Project](https://github.com/urosobucina996/webScraper)
 <br>
 ### 🌟 **nodeREST**
 📌  Web scraper for guitars with Node
-🔗 **Link:** `[[[[https://github.com/urosobucina996/python_games](https://github.com/urosobucina996/space_impact)](https://github.com/urosobucina996/bash-scripts/tree/main/upload-script)](https://github.com/urosobucina996/webScraper)](https://github.com/urosobucina996/nodeREST)`
+🔗 [Open Project](https://github.com/urosobucina996/nodeREST)
 <br>
