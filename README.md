@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### 🛠️ Skills
 - Python | JavaScript | Node.js | Bash
 - Django | React
+- Virtual Machines | Docker
 - MySQL  | PostgreSQL
 
 
