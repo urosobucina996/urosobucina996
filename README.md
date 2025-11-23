@@ -23,10 +23,10 @@ Coding is not only my job; it's something I genuinely enjoy doing.
 
 
 ### 🛠️ Skills
-- Python | JavaScript | Node.js | Bash
-- Django | React
-- Virtual Machines | Docker
-- MySQL  | PostgreSQL
+- Languages & Runtime: Python | JavaScript | Node.js | Bash
+- Frameworks: Django | React
+- Tools: Virtual Machines | Docker
+- Databases: MySQL | PostgreSQL
 
 
 # 🚀 Projects
