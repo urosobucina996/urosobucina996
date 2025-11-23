@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 🌟 **ci_cd_flask_app**
 📌 Project to get random messages as response.  
 📌 Created for CI/CD learning and automation.
-🔗 [Open Project](https://github.com/USERNAME/ci_cd_flask_app)
+🔗 [Open Project](https://github.com/urosobucina996/ci_cd_flask_app)
 <br>
 ### 🌟 **python_games**
 📌 Make 2D game played in CMD, mimic old snake game.
