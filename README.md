@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ### 🛠️ Skills
 - Python | JavaScript | Node.js | Bash
-- Django | React  
+- Django | React
+- MySQL  | PostgreSQL
 
 
 # 🚀 Projects
@@ -35,9 +36,9 @@ Here are some ideas to get you started:
  
 - 🌟 **pandemicStatistic:** Web app that scrapes and represent statistic data about Covid(made in 2022).
 -     https://github.com/urosobucina996/pandemicStatistic
--     site:** https://pandemic-report-urosobucina996.vercel.app/report
+-     https://pandemic-report-urosobucina996.vercel.app/report
  
 - 🌟 **webScraper:** Web scraper for electric guitars
 -     https://github.com/urosobucina996/webScraper
 - 🌟 **nodeREST:** Web scraper for guitars with Node
-     [https://github.com/urosobucina996/nodeREST]
+-     https://github.com/urosobucina996/nodeREST
