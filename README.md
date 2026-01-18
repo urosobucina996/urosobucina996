@@ -23,13 +23,17 @@ Coding is not only my job; it's something I genuinely enjoy doing.
 
 
 ### 🛠️ Skills
-- Languages & Runtime: Python | JavaScript | Node.js | Bash | PHP
+- Languages & Runtime: Python | C | JavaScript | Node.js | Bash | PHP
 - Frameworks: Django | React
 - Tools: Virtual Machines | Docker
 - Databases: MySQL | PostgreSQL
 
 
 # 🚀 Projects
+### 🌟 **c-http-server**
+📌 Minimal HTTP Server in C.  <br>
+🔗 [Open Project](https://github.com/urosobucina996/c-http-server)
+<br>
 ### 🌟 **ci_cd_flask_app**
 📌 Project to get random messages as response.  <br>
 📌 Created for CI/CD learning and automation.  <br>
