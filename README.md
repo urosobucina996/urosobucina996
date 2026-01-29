@@ -30,8 +30,12 @@ Coding is not only my job; it's something I genuinely enjoy doing.
 
 
 # 🚀 Projects
-### 🌟 **c-http-server**
-📌 Minimal HTTP Server in C.  <br>
+### 🌟 **png-qr-generator**
+📌 Generate QR code from input text <br>
+🔗 [Open Project](https://github.com/urosobucina996/png-qr-code-generator)
+<br>
+### 🌟 **http-server**
+📌 Minimal HTTP Server with ring buffer <br>
 🔗 [Open Project](https://github.com/urosobucina996/c-http-server)
 <br>
 ### 🌟 **ci_cd_flask_app**
