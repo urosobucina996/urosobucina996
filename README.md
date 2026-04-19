@@ -30,6 +30,10 @@ Coding is not only my job; it's something I genuinely enjoy doing.
 
 
 # 🚀 Projects
+### 🌟 **terminal-file-explorer**
+📌 A terminal file explorer that lets you navigate folders using arrow keys <br>
+🔗 [Open Project](https://github.com/urosobucina996/term-explorer)
+<br>
 ### 🌟 **png-qr-generator**
 📌 Generate QR code from input text <br>
 🔗 [Open Project](https://github.com/urosobucina996/png-qr-code-generator)
