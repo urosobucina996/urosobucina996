@@ -30,6 +30,10 @@ Coding is not only my job; it's something I genuinely enjoy doing.
 
 
 # 🚀 Projects
+### 🌟 **file-reader**
+📌 Read file in real time and show it's content <br>
+🔗 [Open Project](https://github.com/urosobucina996/file-reader)
+<br>
 ### 🌟 **terminal-file-explorer**
 📌 A terminal file explorer that lets you navigate folders using arrow keys <br>
 🔗 [Open Project](https://github.com/urosobucina996/term-explorer)
@@ -37,10 +41,6 @@ Coding is not only my job; it's something I genuinely enjoy doing.
 ### 🌟 **png-qr-generator**
 📌 Generate QR code from input text <br>
 🔗 [Open Project](https://github.com/urosobucina996/png-qr-code-generator)
-<br>
-### 🌟 **http-server**
-📌 Minimal HTTP Server with ring buffer <br>
-🔗 [Open Project](https://github.com/urosobucina996/c-http-server)
 <br>
 ### 🌟 **ci_cd_flask_app**
 📌 Project to get random messages as response.  <br>
